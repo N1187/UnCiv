@@ -128,5 +128,15 @@
 		movementCost:1,
 		defenceBonus: -0.1,
 		occursOn:["Desert"]
-	}
+	},
+	{
+		name:"Atoll",
+		type:"TerrainFeature",
+		food:2,
+		production:1,
+		movementCost:1,
+		occursOn:["Coast","Ocean"]
+	
+		
+		
 ]	
